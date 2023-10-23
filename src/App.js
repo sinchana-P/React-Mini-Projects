@@ -1,11 +1,11 @@
 import './App.css';
-import Api from './components/Api'
+import Calculator from './components/Calculator';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Api />
+        <Calculator />
       </header>
     </div>
   );
